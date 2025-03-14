@@ -119,7 +119,7 @@ export default function Testimonials() {
                   </div>
                   <FaQuoteLeft className="text-2xl text-[#90B3E7]" />
                   <p className="text-white italic">
-                    "{testimonial.text}"
+                    &ldquo;{testimonial.text}&rdquo;
                   </p>
                   <div>
                     <h3 className="text-lg font-semibold text-white">
