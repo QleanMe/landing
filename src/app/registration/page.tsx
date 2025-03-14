@@ -71,10 +71,10 @@ export default function Registration() {
           <h1 className="text-3xl font-bold text-[#1E3A6E] mb-2">Join Our Exclusive Beta</h1>
           <div className="bg-[#E1EEFF] rounded-xl p-6 mb-8">
             <p className="text-[#4B6A9B] leading-relaxed">
-              But that's not all—right now, we're running an exclusive closed beta test for our app. Every two weeks, we'll randomly select 10 lucky users from those who sign up to join our beta team. This is your golden opportunity to be among the very first to experience our innovative service!
+              But that&apos;s not all—right now, we&apos;re running an exclusive closed beta test for our app. Every two weeks, we&apos;ll randomly select 10 lucky users from those who sign up to join our beta team. This is your golden opportunity to be among the very first to experience our innovative service!
             </p>
             <p className="text-[#2D5BA0] font-medium mt-4">
-              Don't miss out—sign up now and be part of something extraordinary! 🚀
+              Don&apos;t miss out—sign up now and be part of something extraordinary! 🚀
             </p>
           </div>
 

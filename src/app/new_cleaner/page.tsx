@@ -79,7 +79,7 @@ export default function NewCleaner() {
           <h1 className="text-3xl font-bold text-[#1E3A6E] mb-2">Join Our Cleaning Team</h1>
           <div className="bg-[#E1EEFF] rounded-xl p-6 mb-8">
             <p className="text-[#4B6A9B] leading-relaxed">
-              We're currently expanding our team of professional cleaners! By submitting this application, you acknowledge and agree to:
+              We&apos;re currently expanding our team of professional cleaners! By submitting this application, you acknowledge and agree to:
             </p>
             <ul className="list-disc list-inside text-[#4B6A9B] mt-4 space-y-2">
               <li>Undergo a comprehensive background check</li>
